@@ -29,5 +29,5 @@ Using historical weather data and race outcomes, this project analyzes how tempe
 This is Part 2 of a 3-part F1 AI/ML series:
 - [Race outcome analysis](https://github.com/swathikalburgi/F1-race-outcome-analysis) 
 - Weather impact analysis *(you're here)*
-- Fan sentiment analysis 
+- [Fan sentiment analysis](https://github.com/swathikalburgi/Fan-sentiment-analysis)
 
